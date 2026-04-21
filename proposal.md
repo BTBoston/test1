@@ -1,8 +1,8 @@
 # Policy Proposal: Responding to AI's Impacts on the Labour Market
 
 **To:** Deputy Secretary, Employment & Skills  
-**From:** [Your Name]  
-**Date:** [Insert Date]  
+**From:** Boston Boynton  
+**Date:** 21/04/2026  
 **Subject:** A policy package to respond to AI-driven labour market change
 
 ## Executive Summary
