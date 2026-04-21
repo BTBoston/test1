@@ -1,6 +1,6 @@
 # Policy Proposal: Responding to AI’s Impacts on the Labour Market
 
-**To:** Deputy Secretary, Employment & Skills  
+**To:** Chris Berg  
 **From:** Boston Boynton  
 **Date:** 21/04/2026  
 **Subject:** A targeted policy package for AI-driven labour market adjustment in Australia
