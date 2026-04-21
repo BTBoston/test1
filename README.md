@@ -6,7 +6,6 @@ This repository contains my Assessment 2 policy proposal for ECON1626.
 
 - `proposal.md` — the final 1,200-word policy proposal
 - `references.md` — full reference list in RMIT Harvard style
-- `figures/` — optional visuals used in the proposal, if applicable
 
 ## Topic
 
