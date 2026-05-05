@@ -1,11 +1,14 @@
 # Policy Proposal: Responding to AI’s Impacts on the Labour Market
 
 **To:** Tania Rishniw  
-**Deputy Secretary, Employment and Workforce**  
-**Department of Employment and Workplace Relations, Australian Government**
+Deputy Secretary, Employment and Workforce  
+Department of Employment and Workplace Relations, Australian Government  
+
 **From:** Boston Boynton  
+
 **Date:** 21/04/2026  
-**Subject:** Economics of Ai
+
+**Subject:** Economics of AI
 
 ---
 
