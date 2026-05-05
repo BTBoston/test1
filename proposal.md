@@ -5,7 +5,7 @@
 **Department of Employment and Workplace Relations, Australian Government**
 **From:** Boston Boynton  
 **Date:** 21/04/2026  
-**Subject:** A targeted policy package for AI-driven labour market adjustment in Australia
+**Subject:** Economics of Ai
 
 ---
 
