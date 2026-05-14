@@ -44,52 +44,70 @@ AI may also reshape industry structure. The OECD highlights risks across the gen
 
 ## Policy Options
 
-### Option 1: AI Skills and Transition Fund
+### Option 1: AI Skills and Redeployment Fund
 
-This option would establish a targeted national fund for reskilling, redeployment and modular capability-building. Priority should go to workers in high-exposure occupations, sectors undergoing rapid adoption, and regions with weaker access to training. Delivery should occur through TAFEs, universities and employer partnerships. This option performs strongly on efficiency and equity because it improves worker adaptability and helps labour move into complementary roles. However, training alone will not guarantee employment if local labour demand is weak (Jobs and Skills Australia 2025).
+This option would establish a targeted national **AI Skills and Redeployment Fund** to support workers whose roles are most exposed to AI-driven task change. The fund would provide subsidised micro-credentials, paid training leave, wage subsidies for redeployment, and regional training hubs. Priority should go to workers in high-exposure occupations such as clerical, administrative, customer service, finance support, legal support and other task-based roles where generative AI can automate or reshape routine work.
 
-### Option 2: AI Adjustment and Job Quality Compact
+Delivery should occur through TAFEs, universities, industry bodies and employer partnerships. To avoid becoming a generic training program, funding should be linked to measurable labour-market outcomes such as course completion, redeployment rates, wage retention, and movement into AI-complementary roles. These roles may include AI supervision, compliance, customer relationship management, data interpretation, workflow redesign and digital problem-solving.
 
-This option would link AI adoption to worker consultation, internal training plans, redeployment pathways and reporting on workforce impacts in larger exposed firms. The purpose is to ensure AI is introduced as a productivity and job-design tool rather than only as a cost-cutting mechanism. This option performs strongly on fairness and job quality because it reduces the risk of unmanaged displacement and weak workplace governance. Its main drawback is implementation complexity, especially for medium-sized firms, so it should be phased and targeted rather than universal (OECD 2025; Jobs and Skills Australia 2025).
+This option performs strongly on **efficiency** because it improves labour mobility and helps workers move from vulnerable tasks into roles where human judgement complements AI. It also performs strongly on **equity** because it targets workers and regions that are less able to self-fund retraining. However, its main limitation is that training alone does not guarantee employment if local labour demand is weak. For this reason, the fund should be connected to employer demand, regional workforce plans and internal redeployment commitments rather than delivered as isolated short courses.
 
-### Option 3: Competition, Diffusion and Data Access Reform
+### Option 2: Workplace AI Governance and Job Quality Compact
 
-This option would widen access to AI benefits by supporting SME adoption while monitoring concentration risks. Measures could include SME advisory support, diffusion grants, and stronger regulatory scrutiny of cloud, platform and data bottlenecks. This option matters because labour-market outcomes partly depend on market structure. If diffusion is narrow, the gains to productivity and wages will also be narrow. Its limitation is that competition reform is slower acting than direct labour-market intervention, so it is best used as a complement rather than a substitute (OECD 2024a; Australian Competition and Consumer Commission 2025).
+This option would introduce a **Workplace AI Governance and Job Quality Compact** for larger firms in highly exposed sectors. The compact would require firms deploying AI in workplace decision-making to complete an AI workforce impact assessment before implementation. This should apply where AI is used for hiring, rostering, performance monitoring, task allocation, promotion, redundancy decisions, customer service automation or other systems that materially affect workers.
+
+The assessment would require firms to identify affected roles, estimate potential displacement or task change, consult workers or representatives, provide internal training plans, create redeployment pathways, and report annually on workforce impacts. The purpose is not to block AI adoption, but to ensure AI is introduced as a productivity and job-design tool rather than only as a labour cost-cutting mechanism.
+
+The European Union provides a useful comparison. The EU AI Act uses a risk-based regulatory model, where obligations increase depending on the risk created by a particular AI system. Employment-related AI is treated as a high-risk area under the Act, including systems used for recruitment, worker selection, promotion, termination, task allocation and performance evaluation. Article 26 also requires employers deploying high-risk AI systems in the workplace to inform workers’ representatives and affected workers before use.
+
+Australia does not need to copy the EU model exactly, but the principle is useful: workplace AI should not be treated as a normal software upgrade when it can affect hiring, monitoring, promotion, dismissal or job quality. This option performs strongly on **fairness and job quality** because it gives workers a voice in how AI changes their roles. It also improves transparency by requiring firms to explain whether AI adoption is creating new opportunities, intensifying work, reducing discretion or increasing redundancy risk.
+
+The main drawback is implementation complexity. Medium-sized firms may lack the capacity to complete detailed assessments. Therefore, the compact should be phased in, beginning with large firms in highly exposed sectors such as finance, professional services, retail, telecommunications, public administration and education. Simpler guidance templates could then be developed for medium-sized firms.
+
+### Option 3: AI Diffusion, SME Adoption and Competition Reform
+
+This option would create an **AI Diffusion, SME Adoption and Competition Reform Package**. Its purpose would be to prevent AI productivity gains from being captured mainly by large firms and dominant digital platforms. Measures could include SME AI adoption vouchers, TAFE and university-based AI productivity clinics, industry advisory services, public procurement support for Australian AI providers, data portability standards, and stronger ACCC monitoring of cloud, platform and data bottlenecks.
+
+This option matters because labour-market outcomes depend not only on whether AI raises productivity, but also on who can access and benefit from the technology. If AI adoption is concentrated among large firms, productivity gains may also become concentrated. Larger firms may be able to automate tasks, reduce labour costs and strengthen market power, while SMEs fall behind due to weaker technical skills, limited capital and dependence on major cloud or platform providers.
+
+This option performs strongly on **long-term productivity and competition** because it helps smaller firms adopt AI safely and productively. It also supports regional and sectoral equity if advisory services are targeted beyond major technology hubs. However, its limitation is that competition and diffusion reform is slower acting than direct labour-market intervention. It may improve productivity over time, but it will not immediately protect workers facing displacement. Therefore, this option should complement, rather than replace, the skills fund and workplace governance compact.
 
 | Policy option | Efficiency | Equity | Feasibility | Speed | Overall assessment |
 |---|---|---|---|---|---|
-| AI Skills and Transition Fund | High | High | Medium | Medium | Strong short-to-medium term option |
-| AI Adjustment and Job Quality Compact | Medium | High | Medium | Medium | Strong for transition quality and worker protection |
-| Competition, Diffusion and Data Reform | Medium | Medium | Low-Medium | Low | Necessary long-term complement |
+| AI Skills and Redeployment Fund | High | High | Medium | Medium | Strong short-to-medium term worker transition policy |
+| Workplace AI Governance and Job Quality Compact | Medium | High | Medium | Medium | Best option for managing workplace risk and job quality |
+| AI Diffusion, SME Adoption and Competition Reform | Medium-High | Medium | Low-Medium | Low | Necessary long-term complement to prevent concentrated gains |
 
-## Recommended Package & Implementation Plan
+## Recommended Package and Implementation Plan
 
-The recommended package combines all three options, with a clear sequence. The government should prioritise the AI Skills and Transition Fund and the AI Adjustment and Job Quality Compact in the first 12 months, while beginning competition and diffusion measures in parallel through existing digital policy processes.
+The strongest policy response is a combined package led by **Option 2: Workplace AI Governance and Job Quality Compact**, supported by Options 1 and 3. Option 2 should be the lead policy because the most immediate risk is not mass unemployment, but unmanaged workplace adjustment. If firms adopt AI without consultation, redeployment planning or transparency, productivity gains may come at the cost of job quality, worker trust and unequal adjustment.
 
-This is the strongest package for three reasons. First, Australia needs productivity growth, and AI can support that if adoption is broad and skills-ready (Productivity Commission 2025). Second, the evidence suggests the main risk is uneven adjustment rather than immediate economy-wide unemployment (Jobs and Skills Australia 2025; International Labour Organization 2025). Third, labour-market outcomes will be better if adoption is paired with training, consultation and broader diffusion.
+However, workplace governance alone is not enough. Workers also need practical support to move into AI-complementary roles, which is why the AI Skills and Redeployment Fund is necessary. Smaller firms also need support to adopt AI safely and productively, which is why diffusion and competition reform should operate in parallel. Together, the three options create a balanced policy mix: the compact improves workplace fairness, the fund improves worker adaptability, and diffusion reform helps spread AI benefits beyond dominant firms.
+
+The recommended package should therefore include three actions. First, large firms in exposed sectors should be required to conduct AI workforce impact assessments before deploying high-risk workplace AI. Second, government should fund targeted training and redeployment pathways for workers in high-exposure roles. Third, SMEs should receive practical AI adoption support while the ACCC monitors cloud, platform and data bottlenecks. This approach recognises that AI can improve productivity, but only if adoption is governed in a way that spreads benefits across workers, firms and regions.
 
 ### Timeline, responsibilities, costs and KPIs
 
-**0–12 months**  
+**0-12 months**  
 **Lead agency:** Department of Employment and Workplace Relations  
 **Supporting agencies:** Jobs and Skills Australia, Treasury, state training systems  
-**Actions:** launch a targeted AI Skills and Transition Fund; identify high-exposure occupations and regions; begin pilot training and redeployment programs  
+**Actions:** Launch the AI Skills and Redeployment Fund; identify high-exposure occupations and regions; begin pilot training and redeployment programs.  
 **Indicative cost:** A$150 million over three years  
-**KPIs:** enrolments, completion rates, redeployment rates, participation by regional and disadvantaged cohorts
+**KPIs:** Enrolments, completion rates, redeployment rates, wage retention, and participation by regional and disadvantaged cohorts.
 
-**0–18 months**  
+**0-18 months**  
 **Lead agency:** Department of Employment and Workplace Relations  
-**Supporting partners:** employers, unions, Jobs and Skills Australia  
-**Actions:** establish an AI Adjustment and Job Quality Compact with guidance on consultation, internal training and transition planning  
+**Supporting partners:** Employers, unions, Jobs and Skills Australia  
+**Actions:** Establish the Workplace AI Governance and Job Quality Compact; create guidance on worker consultation, AI workforce impact assessments, internal training and transition planning.  
 **Indicative cost:** A$40 million over three years  
-**KPIs:** number of participating firms, worker consultation coverage, internal training uptake, proportion of displaced workers redeployed rather than exited
+**KPIs:** Number of participating firms, worker consultation coverage, internal training uptake, and proportion of affected workers redeployed rather than exited.
 
-**12–36 months**  
+**12-36 months**  
 **Lead agencies:** Treasury and ACCC  
-**Supporting agencies:** digital economy and industry portfolios  
-**Actions:** roll out SME AI advisory and diffusion support, integrate AI-related competition monitoring into existing digital market oversight  
+**Supporting agencies:** Digital economy and industry portfolios  
+**Actions:** Roll out SME AI advisory and diffusion support; integrate AI-related competition monitoring into existing digital market oversight.  
 **Indicative cost:** A$60 million over three years  
-**KPIs:** SME AI uptake, regional participation, concentration indicators in key digital inputs, wage recovery after transition
+**KPIs:** SME AI uptake, regional participation, concentration indicators in key digital inputs, and wage recovery after transition.
 
 Total indicative package cost is **A$250 million over three years**. This is justified as a targeted labour-market adjustment package rather than a general technology subsidy.
 
